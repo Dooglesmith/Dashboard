@@ -36,7 +36,6 @@ nav {
   position: sticky;
   top: 0;
   left: 0;
-  height: 100%;
   background-color: var(--main-color);
   width: 16rem;
   padding: 1.8rem 0.85rem;
